@@ -35,7 +35,7 @@ export function HeroSection() {
                 size="lg"
                 className="bg-secondary text-secondary-foreground hover:bg-secondary/90 text-lg px-8"
               >
-                <Link href="/contact">
+                <Link href="/contact-us">
                   Contact Us Now
                   <ArrowRight className="ml-2 h-5 w-5" />
                 </Link>

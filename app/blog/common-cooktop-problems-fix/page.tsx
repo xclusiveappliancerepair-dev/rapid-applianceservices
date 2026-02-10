@@ -430,7 +430,7 @@ export default function CooktopProblemsPage() {
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <Button asChild size="lg" variant="secondary" className="text-lg">
-                  <Link href="/contact">Schedule Service</Link>
+                  <Link href="/contact-us">Schedule Service</Link>
                 </Button>
                 <Button asChild size="lg" variant="outline" className="bg-white text-primary hover:bg-white/90">
                   <a href="tel:877-770-0157">Call (877) 770-0157</a>

@@ -114,7 +114,7 @@ export default function AmanaApplianceCarePage() {
                   Our certified technicians are ready to help with all your Amana appliance needs in Palm Springs.
                 </p>
                 <Button asChild size="lg" className="bg-white text-primary hover:bg-white/90">
-                  <Link href="/contact">Contact Us Today</Link>
+                  <Link href="/contact-us">Contact Us Today</Link>
                 </Button>
               </div>
             </section>
@@ -247,7 +247,7 @@ export default function AmanaApplianceCarePage() {
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <Button asChild size="lg" className="bg-white text-primary hover:bg-white/90">
-                  <Link href="/contact">Get a Free Estimate</Link>
+                  <Link href="/contact-us">Get a Free Estimate</Link>
                 </Button>
                 <Button
                   asChild

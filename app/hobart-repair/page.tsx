@@ -28,7 +28,7 @@ export default function HobartRepairPage() {
                 variant="outline"
                 className="border-2 border-white text-white hover:bg-white hover:text-primary bg-transparent"
               >
-                <Link href="/contact">Get Estimate</Link>
+                <Link href="/contact-us">Get Estimate</Link>
               </Button>
             </div>
           </div>
@@ -395,7 +395,7 @@ export default function HobartRepairPage() {
                   variant="outline"
                   className="bg-transparent text-primary-foreground border-2 border-primary-foreground hover:bg-primary-foreground/10"
                 >
-                  <Link href="/contact">Get Estimate</Link>
+                  <Link href="/contact-us">Get Estimate</Link>
                 </Button>
               </div>
             </div>

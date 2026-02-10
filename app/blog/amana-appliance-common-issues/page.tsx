@@ -261,7 +261,7 @@ export default function AmanaApplianceIssuesPage() {
                     variant="outline"
                     className="border-white text-white hover:bg-white/10 bg-transparent"
                   >
-                    <Link href="/contact">Schedule Repair</Link>
+                    <Link href="/contact-us">Schedule Repair</Link>
                   </Button>
                 </div>
               </div>
@@ -424,7 +424,7 @@ export default function AmanaApplianceIssuesPage() {
                     variant="outline"
                     className="border-white text-white hover:bg-white/10 bg-transparent"
                   >
-                    <Link href="/contact">Request Service</Link>
+                    <Link href="/contact-us">Request Service</Link>
                   </Button>
                 </div>
               </div>

@@ -86,7 +86,7 @@ export default function WashingMachineBlogPost() {
                   Need professional washing machine repair? Contact our expert technicians today!
                 </p>
                 <Button asChild className="bg-coral-500 hover:bg-coral-600 text-white">
-                  <Link href="/contact">(877) 770-0157</Link>
+                  <Link href="/contact-us">(877) 770-0157</Link>
                 </Button>
               </div>
 
@@ -169,7 +169,7 @@ export default function WashingMachineBlogPost() {
                   Expert washing machine repair services available. Get your appliance fixed today!
                 </p>
                 <Button asChild className="bg-navy-600 hover:bg-navy-700 text-white">
-                  <Link href="/contact">(877) 770-0157</Link>
+                  <Link href="/contact-us">(877) 770-0157</Link>
                 </Button>
               </div>
 
@@ -228,7 +228,7 @@ export default function WashingMachineBlogPost() {
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <Button asChild size="lg" className="bg-white text-primary hover:bg-white/90">
-                  <Link href="/contact">Get Free Estimate</Link>
+                  <Link href="/contact-us">Get Free Estimate</Link>
                 </Button>
                 <Button
                   asChild

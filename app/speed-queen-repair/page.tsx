@@ -33,7 +33,7 @@ export default function SpeedQueenRepairPage() {
                   asChild
                   className="w-full sm:w-auto border-2 border-white text-white hover:bg-white hover:text-primary bg-transparent"
                 >
-                  <Link href="/contact">Get Estimate</Link>
+                  <Link href="/contact-us">Get Estimate</Link>
                 </Button>
               </div>
             </div>
@@ -232,7 +232,7 @@ export default function SpeedQueenRepairPage() {
                   asChild
                   className="border-2 border-white text-white hover:bg-white hover:text-primary text-lg px-8 bg-transparent"
                 >
-                  <Link href="/contact">Schedule Service</Link>
+                  <Link href="/contact-us">Schedule Service</Link>
                 </Button>
               </div>
             </div>

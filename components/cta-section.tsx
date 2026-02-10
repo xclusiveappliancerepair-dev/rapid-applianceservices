@@ -33,7 +33,7 @@ export function CTASection() {
               variant="outline"
               className="bg-primary-foreground/10 text-primary-foreground border-primary-foreground/20 hover:bg-primary-foreground/20 text-lg px-8"
             >
-              <Link href="/contact">
+              <Link href="/contact-us">
                 Schedule Appointment
                 <ArrowRight className="ml-2 h-5 w-5" />
               </Link>
